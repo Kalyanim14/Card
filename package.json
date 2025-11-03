@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "framer-motion": "^12.23.24",
     "gsap": "^3.13.0",
     "preact": "^10.27.2"
   },
